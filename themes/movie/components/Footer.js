@@ -34,11 +34,11 @@ export const Footer = props => {
           )}
           <BeiAnGongAn />
           <span className='dark:text-gray-200 no-underline ml-4'>
-            Powered by
+            版权所有 侵权必究
             <a
-              href='https://github.com/tangly1024/NotionNext'
+              href='https://www.daijianpu.com/contact'
               className=' hover:underline'>
-              NotionNext {siteConfig('VERSION')}
+             申请版权
             </a>
           </span>
         </div>
