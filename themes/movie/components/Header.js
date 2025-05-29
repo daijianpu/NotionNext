@@ -26,7 +26,7 @@ export const Header = props => {
   let links = [
     {
       id: 1,
-      icon: 'fa-solid fa-house',
+      icon: 'fa-solid fa-yinyang',
       name: locale.NAV.INDEX,
       href: '/',
       show: siteConfig('MOVIE_MENU_INDEX', null, CONFIG)
