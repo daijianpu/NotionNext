@@ -34,7 +34,7 @@ export const Footer = props => {
           )}
           <BeiAnGongAn />
           <span className='dark:text-gray-200 no-underline ml-4'>
-            版权所有 侵权必究
+            版权所有 
             <a
               href='https://www.daijianpu.com/contact'
               className=' hover:underline'>
